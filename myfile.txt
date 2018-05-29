@@ -1,6 +1,8 @@
 The Title
 ---------
 
+Copyright
+
 Initial text
 
 First change
