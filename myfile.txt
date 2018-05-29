@@ -1,3 +1,6 @@
+The Title
+---------
+
 Initial text
 
 First change
